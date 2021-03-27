@@ -45,6 +45,8 @@ li {
 
      table {
         display: block;
+        margin-right: 300px;
+        margin-left: 8 px
         border-color: #ffd800; /* Yellow */
         color: #ffffff; /* White */
         background-color: #000000; /* Black */
