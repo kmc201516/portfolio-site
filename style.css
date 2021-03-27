@@ -30,7 +30,7 @@ li {
 
     li a {
         display: block;
-        border-color: gold;
+        border-color: #ffd800; /* Yellow */
         color: #1102ff; /* Blue */
         background-color: #000000; /* Black */
         text-align: center;
