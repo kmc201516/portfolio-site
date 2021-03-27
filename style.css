@@ -51,7 +51,13 @@ li {
         padding: 14px 16px;
         text-decoration: wavy;
     }
-     td {
+     tr {
          color: #ffffff; /* White */
          background-color: #000000; /* Black */
      }
+     th, td{
+         padding: 8px;
+         text-align: center;
+         border-bottom: 10px solid #58ff00;
+     }
+    tr:hover {background-color: #000000;}
