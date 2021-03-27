@@ -38,7 +38,7 @@ li {
         text-decoration: wavy;
     }
 
-        li a:hover {
+        li a: hover {
             background-color: #000;
         }
 
