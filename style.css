@@ -45,10 +45,6 @@ li {
 
      table {
         display: block;
-        margin-right: 30px;
-        margin-top: 1px;
-        margin-left: 8px;
-        margin-bottom: 1px
         border-color: #ffd800; /* Yellow */
         color: #ffffff; /* White */
         background-color: #000000; /* Black */
@@ -60,10 +56,10 @@ li {
          color: #ffffff; /* White */
          background-color: #000000; /* Black */
      }
-     th, td{
-         padding-right: 30px;
-         padding-left: 8px;
-         text-align: center;
-         border-bottom: 10px solid #58ff00;
+th, td {
+    padding: 8px;
+    text-align: center;
+    border-bottom: 10px solid #58ff00;
+}
      }
     tr:hover {background-color: #000000;}
