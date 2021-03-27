@@ -31,8 +31,8 @@ li {
     li a {
         display: block;
         border-color: gold;
-        color: blue;
-        background-color: black;
+        color: #1102ff; /* Blue */
+        background-color: #000000; /* Black */
         text-align: center;
         padding: 14px 16px;
         text-decoration: wavy;
