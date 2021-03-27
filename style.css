@@ -45,13 +45,13 @@ li {
 
      table {
         display: block;
-        margin-right: 300px;
+        margin-right: 30px;
         margin-left: 8 px
         border-color: #ffd800; /* Yellow */
         color: #ffffff; /* White */
         background-color: #000000; /* Black */
         text-align: center;
-        padding: 300px 300px;
+        padding: 30px 30px;
         text-decoration: wavy;
     }
      tr {
@@ -59,7 +59,7 @@ li {
          background-color: #000000; /* Black */
      }
      th, td{
-         padding-right: 300px;
+         padding-right: 30px;
          padding-left: 8px;
          text-align: center;
          border-bottom: 10px solid #58ff00;
