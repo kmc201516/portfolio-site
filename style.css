@@ -57,7 +57,10 @@ li {
          background-color: #000000; /* Black */
      }
 th, td {
-    padding: 8px;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 80px;
+    padding-bottom: 15px;
     text-align: center;
 }
      }
