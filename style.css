@@ -32,6 +32,11 @@ ul {
     overflow: hidden;
     color: #ffd800; /* Gold */
 }
+ul:hover {
+    cursor:pointer;
+    background-color: white;
+    color: black;
+}
 a {
     color: lime;
 }
