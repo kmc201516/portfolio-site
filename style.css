@@ -32,7 +32,9 @@ ul {
     overflow: hidden;
     background-color: #000;
 }
-
+a {
+    color: lime;
+}
 li {
     float: left;
 }
