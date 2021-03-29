@@ -71,13 +71,14 @@ li {
          background-color: #000000; /* Black */
      }
 th, td {
-    padding-top: 15px;
-    padding-left: 15px;
-    padding-right: 15px;
-    padding-bottom: 15px;
+    padding-top: 200px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
     text-align: center;
 }
      }
 tr:hover {
     background-color: #f3f3f3; /* F3ROCITYS */
+    color:blue
 } 
