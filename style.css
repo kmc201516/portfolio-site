@@ -60,10 +60,6 @@ li {
         color: #ffffff; /* White */
         background-color: #000000; /* Black */
         text-align: center;
-        padding-right: 200px;
-        padding-top: 30px;
-        padding-bottom: 30px;
-        padding-left: 30px;
         text-decoration: wavy;
     }
      tr {
@@ -71,10 +67,6 @@ li {
          background-color: #000000; /* Black */
      }
 th, td {
-    padding-top: 200px;
-    padding-left: 30px;
-    padding-right: 30px;
-    padding-bottom: 30px;
     text-align: center;
 }
      }
