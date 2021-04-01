@@ -43,7 +43,7 @@ li {
     float: left;
 }
 
-a #Table1 {
+ table1 {
     display: block;
     border-color: #4CAF50; /* Green */
     color: #0026ff; /* Blue */
