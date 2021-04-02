@@ -8,10 +8,19 @@ h1 {
     color: black;
 }
 h2 {
-    color: turquoise;
+    color: #55CDFC; /* Trans Blue */
+}
+h3 {
+    color: #F7A88A; /* Trans Pink */
 }
 h4 {
+    color: #ffffff; /* White */
+}
+h5{
     color: red;
+}
+TransgenderJourney{
+    color: green;
 }
 .button {
   background-color: #4CAF50; /* Green */
