@@ -11,7 +11,7 @@ h2 {
     color: #55CDFC; /* Trans Blue */
 }
 h3 {
-    color: #F7A88A; /* Trans Pink */
+    color: #ff00e0; /* Trans Pink */
 }
 h4 {
     color: #ffffff; /* White */
@@ -19,7 +19,7 @@ h4 {
 h5{
     color: red;
 }
-TransgenderJourney{
+#TransgenderJourney{
     color: green;
 }
 .button {
