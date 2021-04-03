@@ -19,7 +19,11 @@ h4 {
 h5{
     color: red;
 }
+#Tables{
+    color: white;
+}
 #TransgenderJourney{
+    color: #ff00e0; /* Trans Pink */
 }
 .button {
   background-color: #4CAF50; /* Green */
