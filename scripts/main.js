@@ -1,1 +1,1 @@
-console.log('#graphs'.trim());
+console.log('#Tables'.trim());
