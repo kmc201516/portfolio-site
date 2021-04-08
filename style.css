@@ -50,6 +50,7 @@ ul {
 ul:hover {
     cursor:pointer;
     background-color: red;
+    color: red;
 }
 a {
     color: lime;
