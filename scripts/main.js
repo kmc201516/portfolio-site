@@ -3,4 +3,9 @@ function good() {
     alert("Welcome " + name);
 }
 
-/*console.log(Math.floor(Math.random() * 100));*/
+function Johb() {
+    console.log("Johb");
+}
+function matj() {
+   console.log (Math.floor(Math.random() * 100));
+}
