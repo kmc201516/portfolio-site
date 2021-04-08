@@ -29,7 +29,8 @@ h5{
 }
 .button {
   background-color: #4CAF50; /* Green */
-  border: none;
+  border: 20px;
+  border-color: grey;
   color: white;
   padding: 20px;
   text-align: center;
