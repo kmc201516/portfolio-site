@@ -14,7 +14,8 @@ function button1() {
         alert("Welcome to this website! I am your host, Tobor. I'm the mastermind behind this website. If you click on the next button, I'll show you I can even pick random numbers.");
 }
     function button3() {
-        alert(Math.floor(Math.random() * 100));
+        alert(Math.floor(Math.random() * 100))
+        console.log(Math.floor(Math.random() * 100));
     }
     function button4() {
         let game = prompt("What is your favourite game?")
