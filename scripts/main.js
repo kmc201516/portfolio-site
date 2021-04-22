@@ -16,6 +16,11 @@ function button1() {
     function button3() {
         alert(Math.floor(Math.random() * 100))
         console.log(Math.floor(Math.random() * 100));
+        let x = 5;
+        let y = 4;
+        console.log(x < 9 && y < 4);
+        console.log(x == 5 || y <= 5);
+        console.log(!(2 * x == y));
     }
     function button4() {
         let game = prompt("What is your favourite game?")
